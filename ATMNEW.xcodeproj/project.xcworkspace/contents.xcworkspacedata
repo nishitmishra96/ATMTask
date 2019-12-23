@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ATM NEW.xcodeproj">
+      location = "self:/Users/nishitmishra/Documents/ATM NEW/ATMNEW.xcodeproj">
    </FileRef>
 </Workspace>

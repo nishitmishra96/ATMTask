@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		9451345523AF7BEA00D6C289 /* ATM NEW */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "ATM NEW"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9451345523AF7BEA00D6C289 /* ATMNEW */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ATMNEW; sourceTree = BUILT_PRODUCTS_DIR; };
 		9451345823AF7BEA00D6C289 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		9451344C23AF7BEA00D6C289 = {
 			isa = PBXGroup;
 			children = (
-				9451345723AF7BEA00D6C289 /* ATM NEW */,
+				9451345723AF7BEA00D6C289 /* ATMNEW */,
 				9451345623AF7BEA00D6C289 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,25 @@
 		9451345623AF7BEA00D6C289 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9451345523AF7BEA00D6C289 /* ATM NEW */,
+				9451345523AF7BEA00D6C289 /* ATMNEW */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9451345723AF7BEA00D6C289 /* ATM NEW */ = {
+		9451345723AF7BEA00D6C289 /* ATMNEW */ = {
 			isa = PBXGroup;
 			children = (
 				9451345823AF7BEA00D6C289 /* main.swift */,
 			);
-			path = "ATM NEW";
+			path = ATMNEW;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9451345423AF7BEA00D6C289 /* ATM NEW */ = {
+		9451345423AF7BEA00D6C289 /* ATMNEW */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9451345C23AF7BEA00D6C289 /* Build configuration list for PBXNativeTarget "ATM NEW" */;
+			buildConfigurationList = 9451345C23AF7BEA00D6C289 /* Build configuration list for PBXNativeTarget "ATMNEW" */;
 			buildPhases = (
 				9451345123AF7BEA00D6C289 /* Sources */,
 				9451345223AF7BEA00D6C289 /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = "ATM NEW";
+			name = ATMNEW;
 			productName = "ATM NEW";
-			productReference = 9451345523AF7BEA00D6C289 /* ATM NEW */;
+			productReference = 9451345523AF7BEA00D6C289 /* ATMNEW */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9451345023AF7BEA00D6C289 /* Build configuration list for PBXProject "ATM NEW" */;
+			buildConfigurationList = 9451345023AF7BEA00D6C289 /* Build configuration list for PBXProject "ATMNEW" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,7 +110,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9451345423AF7BEA00D6C289 /* ATM NEW */,
+				9451345423AF7BEA00D6C289 /* ATMNEW */,
 			);
 		};
 /* End PBXProject section */
@@ -265,7 +265,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9451345023AF7BEA00D6C289 /* Build configuration list for PBXProject "ATM NEW" */ = {
+		9451345023AF7BEA00D6C289 /* Build configuration list for PBXProject "ATMNEW" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9451345A23AF7BEA00D6C289 /* Debug */,
@@ -274,7 +274,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9451345C23AF7BEA00D6C289 /* Build configuration list for PBXNativeTarget "ATM NEW" */ = {
+		9451345C23AF7BEA00D6C289 /* Build configuration list for PBXNativeTarget "ATMNEW" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9451345D23AF7BEA00D6C289 /* Debug */,
